@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auctionata.Domain", "Auctionata.Domain\Auctionata.Domain.csproj", "{EF4C1219-D910-437A-AC45-B6868C01442F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auctionata.Api", "Auctionata.Api\Auctionata.Api.csproj", "{EE9A25E5-F634-424D-A67E-399256CE7C02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auctionata.Tests", "Auctionata.Tests\Auctionata.Tests.csproj", "{F4ED334E-5183-4BF0-8B9E-42E253FB33DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF4C1219-D910-437A-AC45-B6868C01442F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF4C1219-D910-437A-AC45-B6868C01442F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF4C1219-D910-437A-AC45-B6868C01442F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF4C1219-D910-437A-AC45-B6868C01442F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE9A25E5-F634-424D-A67E-399256CE7C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE9A25E5-F634-424D-A67E-399256CE7C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE9A25E5-F634-424D-A67E-399256CE7C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE9A25E5-F634-424D-A67E-399256CE7C02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4ED334E-5183-4BF0-8B9E-42E253FB33DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4ED334E-5183-4BF0-8B9E-42E253FB33DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4ED334E-5183-4BF0-8B9E-42E253FB33DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4ED334E-5183-4BF0-8B9E-42E253FB33DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

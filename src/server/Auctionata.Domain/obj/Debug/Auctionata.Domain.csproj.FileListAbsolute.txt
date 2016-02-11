@@ -1,0 +1,5 @@
+C:\Tasks\auctionata\src\server\Auctionata.Domain\bin\Debug\Auctionata.Domain.dll
+C:\Tasks\auctionata\src\server\Auctionata.Domain\bin\Debug\Auctionata.Domain.pdb
+C:\Tasks\auctionata\src\server\Auctionata.Domain\obj\Debug\Auctionata.Domain.dll
+C:\Tasks\auctionata\src\server\Auctionata.Domain\obj\Debug\Auctionata.Domain.pdb
+C:\Tasks\auctionata\src\server\Auctionata.Domain\obj\Debug\Auctionata.Domain.csprojResolveAssemblyReference.cache
